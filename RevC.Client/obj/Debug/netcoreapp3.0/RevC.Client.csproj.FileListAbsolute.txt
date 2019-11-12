@@ -1,0 +1,14 @@
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/bin/Debug/netcoreapp3.0/RevC.Client
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/bin/Debug/netcoreapp3.0/RevC.Client.deps.json
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/bin/Debug/netcoreapp3.0/RevC.Client.runtimeconfig.json
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/bin/Debug/netcoreapp3.0/RevC.Client.runtimeconfig.dev.json
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/bin/Debug/netcoreapp3.0/RevC.Client.dll
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/bin/Debug/netcoreapp3.0/RevC.Client.pdb
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/bin/Debug/netcoreapp3.0/RevC.Domain.dll
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/bin/Debug/netcoreapp3.0/RevC.Domain.pdb
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/obj/Debug/netcoreapp3.0/RevC.Client.csprojAssemblyReference.cache
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/obj/Debug/netcoreapp3.0/RevC.Client.AssemblyInfoInputs.cache
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/obj/Debug/netcoreapp3.0/RevC.Client.AssemblyInfo.cs
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/obj/Debug/netcoreapp3.0/RevC.Client.csproj.CopyComplete
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/obj/Debug/netcoreapp3.0/RevC.Client.dll
+/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/obj/Debug/netcoreapp3.0/RevC.Client.pdb

@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RevC.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/RevC.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RevC.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RevC.Domain/1.0.0": {
+      "type": "project",
+      "path": "../RevC.Domain/RevC.Domain.csproj",
+      "msbuildProject": "../RevC.Domain/RevC.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "RevC.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/simar/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/RevC.Client.csproj",
+      "projectName": "RevC.Client",
+      "projectPath": "/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/RevC.Client.csproj",
+      "packagesPath": "/home/simar/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Client/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/simar/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Domain/RevC.Domain.csproj": {
+              "projectPath": "/mnt/c/Users/Simar/Desktop/RevatureC/RevC.Domain/RevC.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

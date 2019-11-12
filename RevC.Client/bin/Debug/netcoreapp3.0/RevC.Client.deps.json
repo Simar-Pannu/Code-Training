@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RevC.Client/1.0.0": {
+        "dependencies": {
+          "RevC.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RevC.Client.dll": {}
+        }
+      },
+      "RevC.Domain/1.0.0": {
+        "runtime": {
+          "RevC.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RevC.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RevC.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
